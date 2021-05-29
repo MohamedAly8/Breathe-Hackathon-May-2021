@@ -1,5 +1,5 @@
 import './css/App.css';
-import { Switch, Route, BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import Routes from './config/routes';
 import Login from './containers/login';
 
